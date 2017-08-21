@@ -92,5 +92,21 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Install my application
+brew cask install spotify
+brew cask install spotify-notifications
+brew cask install skype
+brew cask install firefox
+brew cask install google-chrome 
+brew cask install dropbox
+brew cask install vlc
+brew cask install sketch
+brew cask install postman
+brew cask install atom
+brew cask install slack
+brew cask install flux
+brew cask install spectacle
+brew cask install docker
+
 # Remove outdated versions from the cellar.
 brew cleanup
